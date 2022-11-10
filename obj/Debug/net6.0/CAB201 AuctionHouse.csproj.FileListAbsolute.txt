@@ -1,0 +1,15 @@
+C:\Users\MSI\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\net6.0\CAB201 AuctionHouse.exe
+C:\Users\MSI\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\net6.0\CAB201 AuctionHouse.deps.json
+C:\Users\MSI\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\net6.0\CAB201 AuctionHouse.runtimeconfig.json
+C:\Users\MSI\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\net6.0\CAB201 AuctionHouse.dll
+C:\Users\MSI\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\net6.0\CAB201 AuctionHouse.pdb
+C:\Users\MSI\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\CAB201 AuctionHouse.csproj.AssemblyReference.cache
+C:\Users\MSI\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\CAB201 AuctionHouse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\CAB201 AuctionHouse.AssemblyInfoInputs.cache
+C:\Users\MSI\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\CAB201 AuctionHouse.AssemblyInfo.cs
+C:\Users\MSI\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\CAB201 AuctionHouse.csproj.CoreCompileInputs.cache
+C:\Users\MSI\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\CAB201 AuctionHouse.dll
+C:\Users\MSI\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\refint\CAB201 AuctionHouse.dll
+C:\Users\MSI\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\CAB201 AuctionHouse.pdb
+C:\Users\MSI\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\CAB201 AuctionHouse.genruntimeconfig.cache
+C:\Users\MSI\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ref\CAB201 AuctionHouse.dll
