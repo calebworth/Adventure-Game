@@ -8,12 +8,27 @@ namespace GithubProject
     public class Program
     {
         static void Main(string[] args)
-        {                      
-
-            Console.WriteLine("You have come to get your fortune told traveller!");
-            Console.WriteLine("What is your name?");
+        {
+            Console.ForegroundColor = ConsoleColor.Magenta;
+            Console.WriteLine("\"You have come to get your fortune told traveller!\"");
+            System.Threading.Thread.Sleep(3000);
+            Console.WriteLine("\"What is your name?\"");
+            Console.ForegroundColor = ConsoleColor.White;
             string charactername = Console.ReadLine();
-            Console.WriteLine($"Welcome {charactername}, your crown was stolen!");
+            Console.ForegroundColor = ConsoleColor.Magenta;
+            Console.WriteLine($"\"Well {charactername}, in the future you'll have your crown stolen by two goblins!\"");
+            System.Threading.Thread.Sleep(3000);
+            Console.ForegroundColor = ConsoleColor.White;
+            Console.WriteLine($"You turn around to see two goblins...");
+            System.Threading.Thread.Sleep(3000);
+            Console.ForegroundColor = ConsoleColor.Green;
+            Console.WriteLine($"\"Get his crown!\"");
+            System.Threading.Thread.Sleep(3000);
+            Console.ForegroundColor = ConsoleColor.White;
+            Console.WriteLine($"Suddenly, the larger of the two jumps onto you.");
+            Console.WriteLine($"The smaller one picks your crown from the ground and escapes through the entry with");
+            Console.WriteLine($"his sidekick following him from behind.");
+            System.Threading.Thread.Sleep(7000);
             bool showMenu = true;
             while (showMenu)
             {

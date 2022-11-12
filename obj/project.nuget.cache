@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CTcyQzFyFLcq2hoNo1osD+GI44uJwptEQwMsW1QVJ/a/1dy1OC7o5lySXMuxOdchgtFSjOpXfjla+jfiDZ8RZA==",
+  "dgSpecHash": "K8A/H58n8dcGFffjiIGkH0E+pZbQRlLpLNWyjT3hQZF60mffBEJTvZkhgxA2jgrt98VQU52HlwxA8nBmp/pJMg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\MSI\\source\\repos\\ConsoleApp7\\ConsoleApp7\\AdventureGame.csproj",
+  "projectFilePath": "C:\\Users\\caleb\\Adventure-Game\\AdventureGame.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
